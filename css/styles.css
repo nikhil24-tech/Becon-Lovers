@@ -1,0 +1,21 @@
+body {
+	background-color:grey;
+}
+
+h1 {
+	color: green;
+	font-size: 30px;
+}
+
+.becon{
+	background-color: #ff1256;
+}
+
+.broccoli{
+	background-color: brown;
+}
+
+.circular{
+	border: 2px;
+	border-style: dashed;
+}
